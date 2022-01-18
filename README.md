@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikrantv476
+- 👋 Hi, I’m a programmer
 - 👀 I’m interested in learning DSA and Web development skills
 - 🌱 I’m currently learning DSA and ReactJs
 - 💞️ I’m looking to collaborate on some major projects
